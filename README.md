@@ -44,5 +44,3 @@ flowchart LR;
 **V. Cắt ngang vị trí cho qua trang pdf khác bằng markdown:**
 
 > `<div style="page-break-after: always;"></div>`
-
-<div style="page-break-after: always;"></div>
